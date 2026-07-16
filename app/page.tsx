@@ -5,7 +5,6 @@ import {
   Wifi,
   Printer,
   Zap,
-  Instagram,
   MessageCircle,
   Mail,
   Phone,
