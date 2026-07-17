@@ -266,14 +266,14 @@ export default function Home() {
 
 {/* ================= DOWNLOAD APP ================= */}
 
-<section className="bg-white py-20">
+<section className="border-t bg-white py-20">
   <div className="mx-auto max-w-5xl px-5 text-center">
 
-    <h2 className="text-4xl font-bold">
+    <h2 className="text-4xl font-bold text-slate-900">
       Download UzyfinePro
     </h2>
 
-    <p className="mx-auto mt-6 max-w-2xl text-lg text-teal-100">
+    <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-gray-600">
       Download the UzyfinePro Android app and enjoy fast airtime
       purchases, data subscriptions, recharge card printing,
       utility bill payments, and more—all in one secure platform.
@@ -281,14 +281,14 @@ export default function Home() {
 
     <div className="mt-10 flex justify-center">
       <a
-        href="/https://www.dropbox.com/scl/fi/utamfek1olx8oy49y9hb0/uzyfinepro_Final2.apk?rlkey=67bszrth7f8od4amdoc6vmz31&st=dgqjbg01&dl=1"
-        className="rounded-xl bg-white px-8 py-4 text-lg font-semibold text-teal-900 shadow-lg transition hover:scale-105 hover:bg-slate-100"
+        href="https://www.dropbox.com/scl/fi/utamfek1olx8oy49y9hb0/uzyfinepro_Final2.apk?rlkey=67bszrth7f8od4amdoc6vmz31&st=dgqjbg01&dl=1"
+        className="rounded-xl bg-teal-700 px-8 py-4 text-lg font-semibold text-white shadow-lg transition hover:bg-teal-800"
       >
         📱 Download UzyfinePro
       </a>
     </div>
 
-    <p className="mt-6 text-sm text-teal-200">
+    <p className="mt-6 text-sm text-gray-500">
       Android APK • Free Download
     </p>
 
