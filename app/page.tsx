@@ -266,7 +266,7 @@ export default function Home() {
 
 {/* ================= DOWNLOAD APP ================= */}
 
-<section className="bg-gradient-to-br from-teal-900 via-teal-800 to-emerald-800 py-20 text-white">
+<section className="bg-white py-20">
   <div className="mx-auto max-w-5xl px-5 text-center">
 
     <h2 className="text-4xl font-bold">
@@ -281,7 +281,7 @@ export default function Home() {
 
     <div className="mt-10 flex justify-center">
       <a
-        href="/downloads/UzyfinePro.apk"
+        href="/https://www.dropbox.com/scl/fi/utamfek1olx8oy49y9hb0/uzyfinepro_Final2.apk?rlkey=67bszrth7f8od4amdoc6vmz31&st=dgqjbg01&dl=1"
         className="rounded-xl bg-white px-8 py-4 text-lg font-semibold text-teal-900 shadow-lg transition hover:scale-105 hover:bg-slate-100"
       >
         📱 Download UzyfinePro
