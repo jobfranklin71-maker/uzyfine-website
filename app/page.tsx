@@ -264,6 +264,36 @@ export default function Home() {
 
 </section>
 
+{/* ================= DOWNLOAD APP ================= */}
+
+<section className="bg-gradient-to-br from-teal-900 via-teal-800 to-emerald-800 py-20 text-white">
+  <div className="mx-auto max-w-5xl px-5 text-center">
+
+    <h2 className="text-4xl font-bold">
+      Download UzyfinePro
+    </h2>
+
+    <p className="mx-auto mt-6 max-w-2xl text-lg text-teal-100">
+      Download the UzyfinePro Android app and enjoy fast airtime
+      purchases, data subscriptions, recharge card printing,
+      utility bill payments, and more—all in one secure platform.
+    </p>
+
+    <div className="mt-10 flex justify-center">
+      <a
+        href="/downloads/UzyfinePro.apk"
+        className="rounded-xl bg-white px-8 py-4 text-lg font-semibold text-teal-900 shadow-lg transition hover:scale-105 hover:bg-slate-100"
+      >
+        📱 Download UzyfinePro
+      </a>
+    </div>
+
+    <p className="mt-6 text-sm text-teal-200">
+      Android APK • Free Download
+    </p>
+
+  </div>
+</section>
 
       {/* ================= FOOTER ================= */}
 
