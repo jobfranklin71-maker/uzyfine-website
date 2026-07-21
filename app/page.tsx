@@ -281,7 +281,7 @@ export default function Home() {
 
     <div className="mt-10 flex justify-center">
       <a
-        href="https://www.dropbox.com/scl/fi/utamfek1olx8oy49y9hb0/uzyfinepro_Final2.apk?rlkey=67bszrth7f8od4amdoc6vmz31&st=dgqjbg01&dl=1"
+        href="https://www.dropbox.com/scl/fi/utamfek1olx8oy49y9hb0/uzyfinepro_Final2.apk?rlkey=67bszrth7f8od4amdoc6vmz31&st=tq8x9aow&dl=1"
         className="rounded-xl bg-teal-700 px-8 py-4 text-lg font-semibold text-white shadow-lg transition hover:bg-teal-800"
       >
         📱 Download UzyfinePro
